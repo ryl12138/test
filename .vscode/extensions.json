@@ -3,6 +3,7 @@
     // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
 
     // List of extensions which should be recommended for users of this workspace.
+    //测试提交
     "recommendations": [
         "langium.langium-vscode",
         "ZixuanChen.vitest-explorer",
